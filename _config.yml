@@ -104,7 +104,8 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/jacksonyoudi/jacksonyoudi.github.io.git
+  repo: git@github.com:jacksonyoudi/jacksonyoudi.github.io.git
+  branch: master
 
 permalink_pinyin:
   enable: true
