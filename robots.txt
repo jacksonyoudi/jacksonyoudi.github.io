@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /archives/
+Allow: /about/
 Allow: /categories/
 Allow: /tags/
 Allow: /resources/
@@ -9,6 +10,7 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
+Disallow: /fancybox/
 Disallow: /fancybox/
 
 Sitemap: https://www.jacksonyoudi.com/sitemap.xml
